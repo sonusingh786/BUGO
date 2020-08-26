@@ -1,4 +1,4 @@
-# Written By Qaiser
+# Written By Bugo
 # Donot recode it 
 
 ##Commands##
@@ -7,16 +7,16 @@ pkg install git
 pkg install python2
 pip2 install requests
 pip2 install mechanize
-git clone https://github.com/TechQaiser/M500
+git clone https://github.com/
 ls
-cd M500
+cd BUGO
 ls
-python2 M500.py
+python2 BUGO
 
 ##Username-Pass##
-Username : Qaiser
-Password : M500
+Username : BUGO
+Password : BUGO
 
-#If You want to recode it then You Need Permission Of Code Writter Qaiser Abbass
+#If You want to recode it then You Need Permission Of Code Writter Sonu Singh
 #Warning : don't try to decrypt This Because I Encrypt 5 time Marshall,Zlib,base64,base32,Marshall64
-#Creadit to Qaiser Abbas
+#Creadit to Sonu Singh
